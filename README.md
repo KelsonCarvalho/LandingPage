@@ -21,5 +21,5 @@
 
 
 
-# Visite a pagina de demostração
+# Visite a pagina da Barbearia
 - [Veja você memso](https://barbearia-sport.vercel.app/)
