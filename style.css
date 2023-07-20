@@ -321,6 +321,11 @@ i {
   color: #FFFFFF;
 }
 
+@media screen and (max-width: 768px) {
+  .footer p {
+    font-size: 14px;
+  }
+}
 /**
 * FIM DA ESTILIZAÇÂO DO FOOTER
 **/

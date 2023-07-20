@@ -260,6 +260,14 @@
     gap: 10px;
     color: $white-normal;
 }
+
+@media screen and (max-width: 768px) {
+   .footer{
+    p{
+        font-size: 14px,;
+    }
+   }
+}
 /**
 * FIM DA ESTILIZAÇÂO DO FOOTER
 **/
